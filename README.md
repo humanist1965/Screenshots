@@ -10,7 +10,7 @@ Stored In:
 Just drop images into this file using <leader>O in nvim
 * The links stored below will be to the github URL (https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/)
 * You will have to commit/push the image to github first though before it will be accessible
-
+  * /home/mkersh/mdwiki/Screenshots
 
 ![img_20251118_115135.png](https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251118_115135.png)
 
@@ -19,3 +19,8 @@ Just drop images into this file using <leader>O in nvim
 Fibonnacci Stream:
 
 ![img_20251118_130100.png](https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251118_130100.png)
+
+
+Storing State in Elixir using Agent:
+
+![img_20251122_111430.png](https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251122_111430.png)
