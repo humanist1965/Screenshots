@@ -24,3 +24,7 @@ Fibonnacci Stream:
 Storing State in Elixir using Agent:
 
 ![img_20251122_111430.png](https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251122_111430.png)
+
+I've change <leader>O to generate an html img element rather than a markdown image
+
+<img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251122_113335.png" width=500 />
