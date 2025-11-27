@@ -17,6 +17,9 @@ Just drop images into this file using <leader>O in nvim
 <img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251127_150506.png" width=500 />
 
 
+<img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251127_152922.png" width=500 />
+
+
 --- 
 
 <img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251124_180710.png" width=500 />
