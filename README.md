@@ -12,6 +12,13 @@ Just drop images into this file using <leader>O in nvim
 * You will have to commit/push the image to github first though before it will be accessible
   * /home/mkersh/mdwiki/Screenshots
 
+
+--- 
+
+<img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251129_121938.png" width=500 />
+
+
+
 --- 
 
 <img src="https://raw.githubusercontent.com/humanist1965/Screenshots/main/assets/img_20251127_150506.png" width=500 />
